@@ -1,0 +1,30 @@
+{
+    "asset_types": [
+        "Code Libraries"
+    ],
+    "author": {
+        "email": "corenodejs@clearblade.com"
+    },
+    "clouds": [],
+    "description": "Partial Implementation of NodeJs' Path library",
+    "domains": [],
+    "gateways": [],
+    "image_url": "https://docs.clearblade.com/v/3/static/img/default_package.png",
+    "keywords": [
+        "clearblade",
+        "iot",
+        "platform",
+        "path",
+        "node",
+        "nodejs"
+    ],
+    "license": "MIT",
+    "name": "PathNodeJs",
+    "private": false,
+    "prog_lang": [
+        "javascript"
+    ],
+    "protocols": [],
+    "things": [],
+    "version": "1.0.0"
+}
