@@ -1,0 +1,8 @@
+{
+    "api": "",
+    "dependencies": "",
+    "description": "Partial Implementation of NodeJs' Path library",
+    "name": "PathNodeJs",
+    "version": 6,
+    "visibility": "system"
+}
