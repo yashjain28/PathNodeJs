@@ -3,7 +3,8 @@
         "Code Libraries"
     ],
     "author": {
-        "email": "corenodejs@clearblade.com"
+        "email": "yjain@clearblade.com",
+        "name":"Yash Jain"
     },
     "clouds": [],
     "description": "Partial Implementation of NodeJs' Path library",
@@ -16,7 +17,9 @@
         "platform",
         "path",
         "node",
-        "nodejs"
+        "js",
+        "core",
+        "library"
     ],
     "license": "MIT",
     "name": "PathNodeJs",
@@ -26,5 +29,13 @@
     ],
     "protocols": [],
     "things": [],
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yashjain28/PathNodeJs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yashjain28/PathNodeJs/issues"
+  },
+  "homepage": "https://github.com/yashjain28/PathNodeJs#readme"
 }
